@@ -1,7 +1,8 @@
 # IPC
-calc of Pi by concurrency programming on C using the followings IPCs:
+<p>calc of Pi by concurrency programming on C using the followings IPCs:</p>
+</br>
 
-1- Pipes
-2- Message Queues
-3- Shared Memory
-4- FIFO
+* Pipes  </br>
+* Message Queues </br>
+* Shared Memory </br>
+* FIFO
